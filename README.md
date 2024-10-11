@@ -1,4 +1,4 @@
-![BannerPNG](https://github.com/didibar/didibar/Pingu/Pingu_2/Pingu2.pdf)
+![BannerPNG](https://github.com/didibar/didibar/blob/main/Pingu/Pingu_2/Pingu2.jpg)
 
 # 👩🏻‍💻 About Me
 
