@@ -37,7 +37,6 @@ The human brain excels at adapting to new situations by drawing on past experien
 #### **Scientific Programs**
 
 [![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)](https://www.latex-project.org/) &nbsp;
-[![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)](https://daringfireball.net/projects/markdown/) &nbsp;
 [![TikZ](https://img.shields.io/badge/-TikZ-05122A?style=flat&logo=latex)](https://www.ctan.org/pkg/pgf) &nbsp;
 
 #### **Version Control**
