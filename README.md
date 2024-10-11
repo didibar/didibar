@@ -5,8 +5,10 @@
 🐧💡 &nbsp; I’m a PhD student in Computational Mathematics, Learning, and Data Science at the University of Pavia and FernUni Schweiz.\
 🐧🎓 &nbsp; I hold a BSc and MSc in Mathematics from the University of Florence. My research interests include **scientific computing**, **neuronal models**, and **graph theory**.\
 
+
 🐧🧠 &nbsp; Current Work:\
 The human brain excels at adapting to new situations by drawing on past experiences. This ability is reflected in faster responses to familiar or similar stimuli and in reduced neural activity, as seen in bulk-tissue measurements. In my current project, I aim to create an associative memory based on the Hodgkin-Huxley framework to investigate these adaptive mechanisms and replicate the experimental findings of [Reber et al.](https://github.com/rebrowski/neuralAdapatationInMTL), where abstract, semantically related visual stimuli are used.\
+
 🐧✍️ &nbsp; Feel free to reach out for collaborations or discussions on these topics!\
 🐧💬 How to reach me:
 
